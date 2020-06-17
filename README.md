@@ -1,2 +1,2 @@
 # BattleTank
-An open world head to head tank fight with simple AI, terrain and advanced control systems in UE4.
+Code I have written as part of the Udemy "UE4 C++" series. Download and do as you wish with these files, not really my content.
